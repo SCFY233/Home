@@ -1,24 +1,27 @@
-# Personal Home Page
+# 个人
 
-Welcome to my personal home page! This is my space to showcase myself.
+欢迎来到我的个人主页！
 
-## About Me
+## 关于我
 
-I'm a developer passionate about coding and exploring new technologies. I enjoy solving interesting problems and building great projects.
+你好！我是一名对世界充满好奇的技术爱好者、Planet工作室-星辰开发组成员
+主攻：JavaScript开发
+热爱：MC基岩版LSE插件制作
+折腾：各类华为麒麟设备刷机和电路原理与硬件
+对我而言，每一个 Bug 和难题都是待解的谜题，而我乐在其中。
 
-## Tech Stack
+## 技术栈
 
-- Python
 - JavaScript
 - HTML/CSS
-- TypeScript
-- React
 - Node.js
+- Shell
 
-## Projects
+## 项目：
 
-Here you can view my latest projects and contributions on GitHub.
+PShop
+SMoney
 
-## Contact
+## 联系
 
-If you're interested in my projects or have any questions, feel free to contact me through GitHub.
+如果你想和我交流学习，欢迎加QQ:2837356981和我联系！(注明来意)
